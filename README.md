@@ -1,7 +1,20 @@
 In this project was doing a small UI for traveling The Yunque :) had fun doing it with Next.js 13
 
 
+This is the Hero Section
+![Hilink Project Hero Section](https://github.com/Elswee13/travelapp_ui/assets/77897104/3f840637-56c2-44ed-a243-7d96263bd54e)
 
+This is the Camping Section
+![Hilink Project Camping](https://github.com/Elswee13/travelapp_ui/assets/77897104/d052bcf5-347f-4252-92be-56a3552daf92)
+
+This is the Traveling Guide Section
+![Hilink Project Traveling Guide](https://github.com/Elswee13/travelapp_ui/assets/77897104/4e8db8fe-b965-45f1-bf65-27c249a38029)
+
+This is the Feature Section
+![Hilink Project Feature Section](https://github.com/Elswee13/travelapp_ui/assets/77897104/64daa765-3e0d-4d06-8558-b7396f170a76)
+
+This is the Get App Section
+![Hilink Project GetApp Section](https://github.com/Elswee13/travelapp_ui/assets/77897104/42d6056a-40d4-49f6-9cc4-cd0935182fa1)
 
 
 
